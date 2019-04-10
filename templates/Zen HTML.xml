@@ -1,0 +1,8 @@
+<templateSet group="Zen HTML">
+  <template name="w" value="{{ $END$ }}" description="vue" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="VUE_TEMPLATE" value="true" />
+    </context>
+  </template>
+</templateSet>

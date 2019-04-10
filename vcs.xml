@@ -1,0 +1,19 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.1.133:3000" />
+          <option name="userName" value="renjinahua" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.1.199:8090" />
+          <option name="userName" value="renjianhua" />
+        </UrlAndUserName>
+      </list>
+    </option>
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="SHOW_LST_GUTTER_MARKERS" value="false" />
+  </component>
+</application>
