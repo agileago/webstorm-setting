@@ -4,7 +4,7 @@
     <property name="created">2019-04-10T10:16:58</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-10T10:28:35</property>
+    <property name="modified">2019-04-10T12:22:27</property>
     <property name="originalScheme">agile new</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -30,7 +30,7 @@
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="3987df" />
     <option name="FILESTATUS_UNKNOWN" value="c13d00" />
     <option name="FILESTATUS_modifiedOutside" value="5577e4" />
-    <option name="GUTTER_BACKGROUND" value="262b33" />
+    <option name="GUTTER_BACKGROUND" value="21272f" />
     <option name="HTML_TAG_TREE_LEVEL0" value="" />
     <option name="HTML_TAG_TREE_LEVEL1" value="" />
     <option name="HTML_TAG_TREE_LEVEL2" value="" />
