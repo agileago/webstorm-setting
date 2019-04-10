@@ -4,7 +4,7 @@
     <property name="created">2019-04-10T10:16:58</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-10T12:22:27</property>
+    <property name="modified">2019-04-10T18:04:31</property>
     <property name="originalScheme">agile new</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -489,7 +489,7 @@
     <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="546e7a" />
+        <option name="FOREGROUND" value="5a8b48" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -501,7 +501,7 @@
     <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="546e7a" />
+        <option name="FOREGROUND" value="5a8b48" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
@@ -557,7 +557,7 @@
     <option name="DEFAULT_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="546e7a" />
+        <option name="FOREGROUND" value="5a8b48" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2027,7 +2027,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="262b33" />
+        <option name="BACKGROUND" value="21272f" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
