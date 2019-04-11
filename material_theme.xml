@@ -1,8 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="arrowsStyle" value="Darcula" />
+    <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="isCompactMenus" value="true" />
+    <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isHighContrast" value="true" />
@@ -14,6 +16,7 @@
     <option name="customSidebarHeight" value="20" />
     <option name="treeFontSize" value="14" />
     <option name="indicatorThickness" value="3" />
+    <option name="settingsSelectedTab" value="1" />
     <option name="tabsHeight" value="28" />
     <option name="accentColor" value="42a5f5" />
     <option name="selectedTheme" value="ARC_DARK" />
