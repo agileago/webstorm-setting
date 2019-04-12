@@ -4,7 +4,7 @@
     <property name="created">2019-04-10T10:16:58</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-10T18:04:31</property>
+    <property name="modified">2019-04-11T22:40:31</property>
     <property name="originalScheme">agile new</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -495,7 +495,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="9dff3a" />
+        <option name="FOREGROUND" value="a9dc76" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -527,7 +527,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="9dff3a" />
+        <option name="FOREGROUND" value="82aaff" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
@@ -538,7 +538,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="e2eb7b" />
+        <option name="FOREGROUND" value="82aaff" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -561,7 +561,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="DEFAULT_METADATA" baseAttributes="TEXT" />
+    <option name="DEFAULT_METADATA">
+      <value>
+        <option name="FOREGROUND" value="82aaff" />
+      </value>
+    </option>
     <option name="DEFAULT_NUMBER">
       <value>
         <option name="FOREGROUND" value="bc95ff" />
@@ -574,7 +578,7 @@
     </option>
     <option name="DEFAULT_PARENTHS">
       <value>
-        <option name="FOREGROUND" value="7eaaff" />
+        <option name="FOREGROUND" value="89ddff" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -585,7 +589,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="c8ec82" />
+        <option name="FOREGROUND" value="9effff" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
@@ -1060,7 +1064,7 @@
     </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="9dff3a" />
+        <option name="FOREGROUND" value="82aaff" />
       </value>
     </option>
     <option name="JS.GLOBAL_VARIABLE">
