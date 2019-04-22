@@ -5,6 +5,7 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="tpl" type="HTML" />
       <mapping ext="vue" type="HTML" />
+      <mapping ext="webp" type="Image" />
       <mapping pattern=".postcssrc" type="JSON" />
       <mapping pattern=".browserslistrc" type="JSON" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
