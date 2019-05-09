@@ -10,6 +10,7 @@
       <mapping pattern=".browserslistrc" type="JSON" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <removed_mapping ext="vue" approved="true" type="Vue.js" />
+      <mapping ext="conf" type="nginx file type" />
       <removed_mapping ext="vue" approved="true" type="Vue.js" />
     </extensionMap>
   </component>
