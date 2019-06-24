@@ -3,12 +3,11 @@
     <extensionMap>
       <mapping pattern="_gitignore" type="Git file" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping ext="tpl" type="HTML" />
       <mapping ext="vue" type="HTML" />
       <mapping pattern=".postcssrc" type="JSON" />
       <mapping pattern=".browserslistrc" type="JSON" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <removed_mapping ext="vue" approved="true" type="Vue.js" />
-      <removed_mapping ext="vue" approved="true" type="Vue.js" />
     </extensionMap>
   </component>
 </application>

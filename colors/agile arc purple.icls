@@ -1,15 +1,15 @@
-<scheme name="agile arc" version="142" parent_scheme="Default">
+<scheme name="agile arc purple" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-04-10T10:16:58</property>
+    <property name="created">2019-06-23T22:37:16</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-11T23:19:43</property>
-    <property name="originalScheme">agile new</property>
+    <property name="ideVersion">2019.1.3.0.0</property>
+    <property name="modified">2019-06-23T22:40:15</property>
+    <property name="originalScheme">agile arc</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Cr.DejaVuSansMono.YaHei" />
+  <option name="EDITOR_FONT_NAME" value="Hack" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Iosevka" />
   <option name="CONSOLE_LIGATURES" value="true" />
@@ -19,7 +19,7 @@
     <option name="ANNOTATIONS_COLOR" value="9eb0de" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="9ed9bc" />
     <option name="CARET_COLOR" value="ebff6f" />
-    <option name="CARET_ROW_COLOR" value="3e424d" />
+    <option name="CARET_ROW_COLOR" value="1d1d29" />
     <option name="CONSOLE_BACKGROUND_KEY" value="151613" />
     <option name="DELETED_LINES_COLOR" value="" />
     <option name="FILESTATUS_ADDED" value="fd000" />
@@ -30,7 +30,7 @@
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="3987df" />
     <option name="FILESTATUS_UNKNOWN" value="c13d00" />
     <option name="FILESTATUS_modifiedOutside" value="5577e4" />
-    <option name="GUTTER_BACKGROUND" value="21272f" />
+    <option name="GUTTER_BACKGROUND" value="20202b" />
     <option name="HTML_TAG_TREE_LEVEL0" value="" />
     <option name="HTML_TAG_TREE_LEVEL1" value="" />
     <option name="HTML_TAG_TREE_LEVEL2" value="" />
@@ -2031,7 +2031,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="21272f" />
+        <option name="BACKGROUND" value="1d1d26" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
