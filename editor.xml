@@ -1,8 +1,7 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="14" />
     <option name="FONT_FAMILY" value="Hack" />
-    <option name="LINE_SPACING" value="1.4" />
+    <option name="LINE_SPACING" value="1.3" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
