@@ -4,7 +4,7 @@
     <property name="created">2019-06-23T08:04:26</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2019-06-23T09:21:49</property>
+    <property name="modified">2019-06-29T17:01:27</property>
     <property name="originalScheme">Cyan light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
@@ -15,6 +15,14 @@
   <colors>
     <option name="CARET_ROW_COLOR" value="f2f3f5" />
     <option name="CONSOLE_BACKGROUND_KEY" value="f3f3f3" />
+    <option name="FILESTATUS_ADDED" value="fd000" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="b752dd" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="a0a047" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
+    <option name="FILESTATUS_MODIFIED" value="578ddf" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="3987df" />
+    <option name="FILESTATUS_UNKNOWN" value="c13d00" />
+    <option name="FILESTATUS_modifiedOutside" value="5577e4" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="a7d1c2" />
     <option name="GUTTER_BACKGROUND" value="f2f3f7" />
     <option name="LINE_NUMBERS_COLOR" value="b3b3b3" />

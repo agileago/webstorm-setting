@@ -4,7 +4,7 @@
     <property name="created">2019-06-23T22:28:05</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2019-06-23T22:34:51</property>
+    <property name="modified">2019-07-11T21:40:09</property>
     <property name="originalScheme">Dark purple</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Iosevka" />
@@ -23,6 +23,7 @@
     <option name="FILESTATUS_DELETED" value="7a7a99" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="7a7a99" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="c78ba1" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
     <option name="FILESTATUS_MERGED" value="b78fcc" />
     <option name="FILESTATUS_MODIFIED" value="62baf5" />
     <option name="FILESTATUS_RENAMED" value="54bfbf" />
