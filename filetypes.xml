@@ -1,13 +1,21 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="wxss" type="CSS" />
       <mapping pattern="_gitignore" type="Git file" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="tpl" type="HTML" />
+      <mapping ext="wxml" type="HTML" />
       <mapping ext="vue" type="HTML" />
+      <mapping ext="webp" type="Image" />
       <mapping pattern=".postcssrc" type="JSON" />
       <mapping pattern=".browserslistrc" type="JSON" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".env.pages" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <removed_mapping ext="vue" approved="true" type="Vue.js" />
+      <mapping ext="conf" type="nginx file type" />
+      <removed_mapping ext="vue" approved="true" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
