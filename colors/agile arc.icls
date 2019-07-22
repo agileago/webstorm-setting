@@ -4,11 +4,11 @@
     <property name="created">2019-04-10T10:16:58</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-07-22T17:34:50</property>
+    <property name="modified">2019-07-22T18:10:31</property>
     <property name="originalScheme">agile new</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_SIZE" value="18" />
   <option name="EDITOR_FONT_NAME" value="Hack" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Iosevka" />
