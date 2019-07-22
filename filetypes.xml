@@ -11,6 +11,7 @@
       <mapping pattern=".env.pages" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <removed_mapping ext="vue" approved="true" type="Vue.js" />
       <removed_mapping ext="vue" approved="true" type="HTML" />
       <mapping ext="conf" type="nginx file type" />
       <mapping pattern=".gitignore_global" type="Git file" />
