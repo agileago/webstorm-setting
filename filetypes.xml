@@ -2,17 +2,18 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="wxss" type="CSS" />
+      <mapping pattern="Dockerfile.Web" type="Dockerfile" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <removed_mapping ext="conf" approved="true" type="HOCON" />
       <mapping ext="tpl" type="HTML" />
       <mapping ext="wxml" type="HTML" />
       <mapping ext="webp" type="Image" />
-      <mapping pattern=".postcssrc" type="JSON" />
       <mapping pattern=".browserslistrc" type="JSON" />
-      <mapping pattern=".env.pages" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".postcssrc" type="JSON" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env.pages" type="PLAIN_TEXT" />
       <mapping pattern="default.conf" type="nginx file type" />
       <mapping ext="conf" type="nginx file type" />
       <removed_mapping ext="vue" approved="true" type="HTML" />
