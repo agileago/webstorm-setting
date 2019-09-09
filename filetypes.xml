@@ -10,9 +10,10 @@
       <mapping ext="wxml" type="HTML" />
       <mapping ext="webp" type="Image" />
       <mapping pattern=".browserslistrc" type="JSON" />
-      <mapping pattern=".postcssrc" type="JSON" />
       <mapping pattern=".jscramblerrc" type="JSON" />
+      <mapping pattern=".postcssrc" type="JSON" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".node-version" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env.release" type="PLAIN_TEXT" />
       <mapping pattern=".env.pages" type="PLAIN_TEXT" />
