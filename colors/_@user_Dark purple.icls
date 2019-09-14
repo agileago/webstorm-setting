@@ -4,7 +4,7 @@
     <property name="created">2019-09-12T08:42:09</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-09-12T08:58:45</property>
+    <property name="modified">2019-09-13T23:14:08</property>
     <property name="originalScheme">Dark purple</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Iosevka" />
@@ -19,15 +19,23 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="3e3e57" />
     <option name="DOCUMENTATION_COLOR" value="2c2c3b" />
     <option name="ERROR_HINT" value="802d43" />
-    <option name="FILESTATUS_ADDED" value="76b366" />
-    <option name="FILESTATUS_DELETED" value="7a7a99" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="7a7a99" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="c78ba1" />
-    <option name="FILESTATUS_MERGED" value="b78fcc" />
-    <option name="FILESTATUS_MODIFIED" value="62baf5" />
+    <option name="FILESTATUS_ADDED" value="c3e88d" />
+    <option name="FILESTATUS_DELETED" value="808080" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
+    <option name="FILESTATUS_MERGED" value="c792ea" />
+    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_OBSOLETE" value="" />
     <option name="FILESTATUS_RENAMED" value="54bfbf" />
-    <option name="FILESTATUS_UNKNOWN" value="bf8060" />
-    <option name="FILESTATUS_addedOutside" value="548049" />
+    <option name="FILESTATUS_SUPPRESSED" value="676e95" />
+    <option name="FILESTATUS_SWITCHED" value="c792ea" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="FILESTATUS_addedOutside" value="c3e88d" />
+    <option name="FILESTATUS_modifiedOutside" value="82aaff" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="495bb3" />
     <option name="GUTTER_BACKGROUND" value="20202b" />
     <option name="INDENT_GUIDE" value="393747" />
