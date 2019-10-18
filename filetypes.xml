@@ -10,6 +10,7 @@
       <mapping ext="webp" type="Image" />
       <mapping pattern=".postcssrc" type="JSON" />
       <mapping pattern=".browserslistrc" type="JSON" />
+      <mapping pattern="shell-bodyobj.js" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env.pages" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
