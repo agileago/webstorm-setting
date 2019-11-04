@@ -8,7 +8,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://192.168.1.199:8090" />
-          <option name="userName" value="zhangzhang" />
+          <option name="userName" value="zhangweichao" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="git@github.com:agileago/ci-test.git" />
