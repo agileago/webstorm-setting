@@ -6,16 +6,17 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="tpl" type="HTML" />
+      <mapping ext="mpx" type="HTML" />
       <mapping ext="wxml" type="HTML" />
       <mapping ext="webp" type="Image" />
-      <mapping pattern=".browserslistrc" type="JSON" />
       <mapping pattern=".jscramblerrc" type="JSON" />
+      <mapping pattern=".browserslistrc" type="JSON" />
       <mapping pattern=".postcssrc" type="JSON" />
+      <mapping pattern=".env.release" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".env.pages" type="PLAIN_TEXT" />
       <mapping pattern=".node-version" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".env.release" type="PLAIN_TEXT" />
-      <mapping pattern=".env.pages" type="PLAIN_TEXT" />
       <mapping pattern="default.conf" type="nginx" />
       <removed_mapping ext="vue" approved="true" type="HTML" />
       <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
