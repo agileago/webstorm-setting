@@ -8,7 +8,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://192.168.1.199:8090" />
-          <option name="userName" value="zhangweichao" />
+          <option name="userName" value="renjianhua" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="git@github.com:agileago/ci-test.git" />
@@ -16,7 +16,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://code.titanmatrix.cn" />
-          <option name="userName" value="zhangweichao" />
+          <option name="userName" value="renjianhua" />
         </UrlAndUserName>
       </list>
     </option>
