@@ -3,20 +3,18 @@
     <extensionMap>
       <mapping ext="wxss" type="CSS" />
       <mapping ext="web" type="Dockerfile" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="tpl" type="HTML" />
       <mapping ext="wxml" type="HTML" />
       <mapping ext="webp" type="Image" />
       <mapping pattern=".postcssrc" type="JSON" />
       <mapping pattern=".browserslistrc" type="JSON" />
-      <mapping pattern="shell-bodyobj.js" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".env.pages" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="shell-bodyobj.js" type="PLAIN_TEXT" />
+      <mapping pattern=".env.pages" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="index" type="Vue.js" />
-      <mapping ext="conf" type="nginx file type" />
       <removed_mapping ext="vue" approved="true" type="HTML" />
+      <mapping ext="conf" type="nginx file type" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="_gitignore" type="Git file" />
     </extensionMap>
