@@ -13,6 +13,7 @@
       <mapping pattern=".browserslistrc" type="JSON" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".env.uat" type="PLAIN_TEXT" />
+      <mapping pattern="EOF" type="PLAIN_TEXT" />
       <mapping pattern=".env.release" type="PLAIN_TEXT" />
       <mapping pattern=".env.pages" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
