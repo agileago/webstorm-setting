@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="wxss" type="CSS" />
-      <mapping pattern="Dockerfile.Web" type="Dockerfile" />
       <mapping ext="mpx" type="HTML" />
       <mapping ext="tpl" type="HTML" />
       <mapping ext="wxml" type="HTML" />
@@ -25,6 +24,7 @@
       <removed_mapping ext="vue" approved="true" type="Vue.js" />
       <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="Dockerfile.Web" type="Dockerfile" />
       <mapping pattern="_gitignore" type="Git file" />
       <mapping pattern="default.conf" type="nginx file type" />
     </extensionMap>
