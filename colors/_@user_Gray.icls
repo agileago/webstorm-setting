@@ -4,7 +4,7 @@
     <property name="created">2020-01-10T15:33:04</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2020-01-10T15:41:56</property>
+    <property name="modified">2020-01-29T21:14:46</property>
     <property name="originalScheme">Gray</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.35" />
@@ -13,14 +13,7 @@
   <colors>
     <option name="CARET_ROW_COLOR" value="f2f3f5" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fafbfc" />
-    <option name="FILESTATUS_ADDED" value="fd000" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="b752dd" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="a0a047" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="1c1f21" />
-    <option name="FILESTATUS_MODIFIED" value="578ddf" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="3987df" />
-    <option name="FILESTATUS_UNKNOWN" value="c13d00" />
-    <option name="FILESTATUS_modifiedOutside" value="5577e4" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
     <option name="GUTTER_BACKGROUND" value="fafbfc" />
     <option name="LINE_NUMBERS_COLOR" value="b3b3b3" />
     <option name="SELECTED_TEARLINE_COLOR" value="cccccc" />
