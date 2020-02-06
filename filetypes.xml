@@ -10,7 +10,6 @@
       <mapping pattern=".jscramblerrc" type="JSON" />
       <mapping pattern=".postcssrc" type="JSON" />
       <mapping pattern=".browserslistrc" type="JSON" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="a1124ffafd6afbfab4e152692790da622a168d3c" type="PLAIN_TEXT" />
       <mapping pattern=".env.uat" type="PLAIN_TEXT" />
       <mapping pattern="EOF" type="PLAIN_TEXT" />
