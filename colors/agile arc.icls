@@ -4,10 +4,10 @@
     <property name="created">2019-04-10T10:16:58</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2020-02-13T15:14:17</property>
+    <property name="modified">2020-02-13T17:30:52</property>
     <property name="originalScheme">agile new</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.3" />
+  <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="17" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <option name="EDITOR_LIGATURES" value="true" />
