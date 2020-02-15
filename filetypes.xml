@@ -8,6 +8,7 @@
       <mapping ext="vue" type="HTML" />
       <mapping ext="webp" type="Image" />
       <mapping pattern=".jscramblerrc" type="JSON" />
+      <mapping pattern="api-extractor.json" type="JSON" />
       <mapping pattern=".postcssrc" type="JSON" />
       <mapping pattern=".browserslistrc" type="JSON" />
       <mapping pattern="a1124ffafd6afbfab4e152692790da622a168d3c" type="PLAIN_TEXT" />
