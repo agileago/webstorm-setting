@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="vue.global" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_vue@3.0.0-alpha.5_dist_vue.global.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_vue@3.0.0-alpha.5_dist_vue.global.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>

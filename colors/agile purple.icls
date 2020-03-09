@@ -1,18 +1,17 @@
-<scheme name="agile arc" version="142" parent_scheme="Default">
+<scheme name="agile purple" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-04-10T10:16:58</property>
+    <property name="created">2020-03-07T17:02:28</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2020-03-04T23:47:19</property>
-    <property name="originalScheme">agile new</property>
+    <property name="ideVersion">2019.3.3.0.0</property>
+    <property name="modified">2020-03-07T17:07:19</property>
+    <property name="originalScheme">agile arc copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Iosevka" />
-  <option name="CONSOLE_FONT_SIZE" value="15" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
@@ -31,7 +30,7 @@
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="3987df" />
     <option name="FILESTATUS_UNKNOWN" value="c13d00" />
     <option name="FILESTATUS_modifiedOutside" value="5577e4" />
-    <option name="GUTTER_BACKGROUND" value="21272f" />
+    <option name="GUTTER_BACKGROUND" value="20202b" />
     <option name="HTML_TAG_TREE_LEVEL0" value="" />
     <option name="HTML_TAG_TREE_LEVEL1" value="" />
     <option name="HTML_TAG_TREE_LEVEL2" value="" />
@@ -2036,8 +2035,8 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="21272f" />
+        <option name="FOREGROUND" value="c9c9d1" />
+        <option name="BACKGROUND" value="1d1d26" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
