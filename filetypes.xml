@@ -8,8 +8,8 @@
       <mapping ext="wxml" type="HTML" />
       <mapping ext="webp" type="Image" />
       <mapping pattern=".browserslistrc" type="JSON" />
-      <mapping pattern=".jscramblerrc" type="JSON" />
       <mapping pattern=".postcssrc" type="JSON" />
+      <mapping pattern=".jscramblerrc" type="JSON" />
       <mapping pattern="api-extractor.json" type="JSON5" />
       <mapping pattern=".env.uat" type="PLAIN_TEXT" />
       <mapping pattern=".env.build" type="PLAIN_TEXT" />
