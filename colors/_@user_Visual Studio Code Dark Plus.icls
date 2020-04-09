@@ -3,7 +3,7 @@
     <property name="created">2020-04-09T10:15:46</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-04-09T10:31:00</property>
+    <property name="modified">2020-04-09T11:51:24</property>
     <property name="originalScheme">Visual Studio Code Dark Plus</property>
   </metaInfo>
   <colors>
@@ -635,6 +635,7 @@
       <value>
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="878787" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_ALIAS_REFERENCE">
