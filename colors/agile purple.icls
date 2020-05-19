@@ -4,7 +4,7 @@
     <property name="created">2020-03-07T17:02:28</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-05-18T17:05:44</property>
+    <property name="modified">2020-05-19T18:24:16</property>
     <property name="originalScheme">agile arc copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
@@ -82,6 +82,11 @@
     <option name="BASH.CONDITIONAL">
       <value>
         <option name="FOREGROUND" value="48ff60" />
+      </value>
+    </option>
+    <option name="BASH.EXTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="a4f6" />
       </value>
     </option>
     <option name="BASH.FUNCTION_CALL">
@@ -315,6 +320,11 @@
         <option name="FOREGROUND" value="bce9fd" />
       </value>
     </option>
+    <option name="CONSOLE_BLUE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="77fee" />
+      </value>
+    </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="66d9ef" />
@@ -330,9 +340,14 @@
         <option name="FOREGROUND" value="48ff60" />
       </value>
     </option>
+    <option name="CONSOLE_RED_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="da7767" />
+      </value>
+    </option>
     <option name="CONSOLE_RED_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="dd0000" />
+        <option name="FOREGROUND" value="dd6962" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
@@ -1234,6 +1249,11 @@
     <option name="LOG_EXPIRED_ENTRY">
       <value>
         <option name="FOREGROUND" value="bababa" />
+      </value>
+    </option>
+    <option name="LOG_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="1bacee" />
       </value>
     </option>
     <option name="LOG_WARNING_OUTPUT">
@@ -2218,6 +2238,11 @@
     <option name="XPATH.XPATH_VARIABLE">
       <value>
         <option name="FOREGROUND" value="fd9620" />
+      </value>
+    </option>
+    <option name="YAML_ANCHOR">
+      <value>
+        <option name="FOREGROUND" value="29c7ff" />
       </value>
     </option>
     <option name="YAML_SCALAR_DSTRING">
