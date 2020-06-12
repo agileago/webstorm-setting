@@ -55,7 +55,6 @@
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_FOR" value="false" />
-    <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
     <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
@@ -81,7 +80,6 @@
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
-    <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
     <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
