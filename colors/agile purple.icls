@@ -4,12 +4,12 @@
     <property name="created">2020-03-07T17:02:28</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-06-12T23:00:28</property>
+    <property name="modified">2020-06-14T10:20:20</property>
     <property name="originalScheme">agile arc copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.35" />
   <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="saxMono" />
+  <option name="EDITOR_FONT_NAME" value="Cascadia Code PL" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Iosevka SS09" />
   <option name="CONSOLE_LIGATURES" value="true" />
