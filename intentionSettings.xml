@@ -1,7 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="JavaScript/Introduce local variable" />
-    <ignoreAction name="Language Injection/Inject language or reference" />
-    <ignoreAction name="Language injection/Edit injected fragment" />
-  </component>
-</application>
