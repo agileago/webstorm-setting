@@ -38,6 +38,12 @@
 *.iml
 out
 gen</template>
+      <template name="fe">.DS_STORE
+.idea
+node_modules
+.vscode
+*.log
+dist</template>
     </userTemplates>
   </component>
 </application>
