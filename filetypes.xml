@@ -17,6 +17,7 @@
       <mapping pattern=".env.uat" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="a1124ffafd6afbfab4e152692790da622a168d3c" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping pattern="default.conf" type="nginx" />
       <removed_mapping ext="vue" approved="true" type="HTML" />
       <removed_mapping ext="html" approved="true" type="Vue.js" />
