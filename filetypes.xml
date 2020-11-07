@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="service" type="Dockerfile" />
       <mapping ext="tpl" type="HTML" />
     </extensionMap>
   </component>
