@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Dockerfile.Web" type="Dockerfile" />
       <mapping ext="service" type="Dockerfile" />
@@ -19,9 +19,10 @@
       <mapping pattern="a1124ffafd6afbfab4e152692790da622a168d3c" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping pattern="default.conf" type="nginx" />
-      <removed_mapping ext="vue" approved="true" type="HTML" />
-      <removed_mapping ext="html" approved="true" type="Vue.js" />
       <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="html" approved="true" type="Vue.js" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="vue" approved="true" type="HTML" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="_gitignore" type="Git file" />
       <mapping pattern="default.conf" type="nginx file type" />
