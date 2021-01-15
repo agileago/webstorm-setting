@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="service" type="Dockerfile" />
       <mapping ext="tpl" type="HTML" />
+      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
     </extensionMap>
   </component>
