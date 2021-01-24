@@ -1,0 +1,5 @@
+<application>
+  <component name="com.github.etkachev.nxwebstorm.ui.settings.PluginSettingsState">
+    <option name="schematicActionButtonsPlacement" value="bottom" />
+  </component>
+</application>
