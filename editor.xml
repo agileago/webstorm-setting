@@ -1,11 +1,61 @@
 <application>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="19" />
+    <option name="FONT_FAMILY" value="Source Code Pro for Powerline" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Medium" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Black" />
+    <option name="USE_LIGATURES" value="true" />
+  </component>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="CSS" value="true" />
+        <entry key="HTML" value="true" />
+        <entry key="JSON" value="true" />
+        <entry key="JavaScript" value="true" />
+        <entry key="LESS" value="true" />
+        <entry key="SASS" value="true" />
+        <entry key="SCSS" value="true" />
+        <entry key="Stylus" value="true" />
+        <entry key="TypeScript" value="true" />
+        <entry key="XHTML" value="true" />
+        <entry key="XML" value="true" />
+        <entry key="yaml" value="true" />
+      </map>
+    </option>
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="enabled" value="false" />
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="JavaScript.js.chain.hints" />
+        <option value="JavaScript.js.type.hints" />
+        <option value="TypeScript.ts.chain.hints" />
+        <option value="TypeScript.ts.enum.hints" />
+        <option value="TypeScript.ts.type.hints" />
+      </set>
+    </option>
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <settingsMapElement>
+      <JavaScript.js.type.hints>
+        <Settings>
+          <option name="showForInferredParameters" value="false" />
+        </Settings>
+      </JavaScript.js.type.hints>
+      <TypeScript.ts.type.hints>
+        <Settings>
+          <option name="showForFunctions" value="true" />
+          <option name="showForShorthandFunctions" value="true" />
+          <option name="showForVariablesAndFields" value="true" />
+        </Settings>
+      </TypeScript.ts.type.hints>
+    </settingsMapElement>
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />

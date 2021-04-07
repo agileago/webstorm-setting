@@ -1,14 +1,24 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="所有位置" />
+    <option name="defaultScopeName" value="所有位置" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="SEARCH_SCOPE" value="所有位置" />
     <mask>*.xml</mask>
+    <mask>*.wxss</mask>
     <mask>*.css</mask>
-    <mask>*.shtml</mask>
-    <mask>*.shtm</mask>
+    <mask>*.wxml</mask>
     <mask>*.htm</mask>
+    <mask>*.shtml</mask>
+    <mask>*.vue</mask>
+    <mask>*.shtm</mask>
     <mask>*.sht</mask>
+    <mask>*.tpl</mask>
     <mask>*.html</mask>
     <mask>*.ats</mask>
     <mask>*.ts</mask>
