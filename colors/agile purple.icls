@@ -4,7 +4,7 @@
     <property name="created">2020-03-07T17:02:28</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2021-04-05T18:34:10</property>
+    <property name="modified">2021-04-07T20:32:21</property>
     <property name="originalScheme">agile arc copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -22,6 +22,7 @@
     <option name="CARET_ROW_COLOR" value="3e424d" />
     <option name="CONSOLE_BACKGROUND_KEY" value="151613" />
     <option name="DELETED_LINES_COLOR" value="" />
+    <option name="DOCUMENTATION_COLOR" value="1d1d26" />
     <option name="FILESTATUS_ADDED" value="fd000" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="b752dd" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="a0a047" />
