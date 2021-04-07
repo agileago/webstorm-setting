@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="define-log" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile.Web" type="Dockerfile" />
       <mapping ext="service" type="Dockerfile" />
       <mapping pattern=".jscramblerignore" type="GitIgnore file" />
@@ -9,6 +10,7 @@
       <mapping pattern=".postcssrc" type="JSON" />
       <mapping pattern=".browserslistrc" type="JSON" />
       <mapping pattern=".jscramblerrc" type="JSON" />
+      <mapping ext="ndm2" type="JSON" />
       <mapping pattern="api-extractor.json" type="JSON5" />
       <mapping pattern=".env.pages" type="PLAIN_TEXT" />
       <mapping pattern="EOF" type="PLAIN_TEXT" />
